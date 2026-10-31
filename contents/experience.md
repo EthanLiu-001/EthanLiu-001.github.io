@@ -58,3 +58,4 @@
 
 \- 完成单片机最小系统板的 PCB 绘制、元件焊接调试与机械臂安装
 
+![ PCB 设计图](static/assets/PCB/PCB1.png)
