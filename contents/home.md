@@ -1,7 +1,7 @@
 [![EthanLiu-001](https://img.shields.io/badge/EthanLiu--001-github-blue?logo=github)](https://github.com/EthanLiu-001)
 [![CSDN](https://img.shields.io/badge/CSDN-博客-red)](https://blog.csdn.net/BiGmowang)
 
-湖南理工大学信息与通信工程 硕士研究生 （专业前 5%）
+    湖南理工大学信息与通信工程 硕士研究生 （专业前 5%）
 多模态健康传感与智能分析湖南省工程研究中心成员； 
  复杂网络与嵌入式系统湖南省高校重点实验室成员；
  研究方向为生物医学信号处理与嵌入式系统，拥有四年生理信号处理相关算法经验（涉及PPG、血压、血氧分析），并在 PPG 信号去噪、血压与血氧计算分析算法及嵌入式平台部署方面有相关实践；有臂式血压计立项到量产相关经验。
