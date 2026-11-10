@@ -30,6 +30,7 @@
 - **负责内容：** 算法设计、MATLAB 仿真、MCU 程序移植和气路调试。
 - **信号处理：** 从袖带压力中分离静压和振荡信号，带通滤波后逐搏检测峰值，修正异常搏动，再对振幅包络做高斯拟合。在 8 位 MCU 上用定点运算完成计算。
 - **精度调整：** 根据临床对比数据调整比例系数和伪迹剔除阈值，减小高血压段和低血压段的偏差。
+- **上位机：** 编写血压分析上位机，通过串口读取 ADC 原始数据，显示压力曲线、振荡波和逐搏幅值，可导出 CSV，用于升压算法调试。
 
 **全自动妇科分泌物分析仪 | 课题组项目 | 负责人**
 
@@ -66,3 +67,4 @@
 <img src="static/assets/PCB/PCB2.png" alt="PCB 设计图 2" style="width:100%;margin:0;">
 <img src="static/assets/PCB/血压分析.png" alt="血压信号分析" style="grid-column:1 / span 2;width:100%;margin:0;">
 </div>
+<p style="text-align:center;font-size:1rem;color:#888;margin-top:0.5rem;">上：电路板 PCB 设计　下：血压分析上位机</p>
