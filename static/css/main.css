@@ -271,3 +271,52 @@ section .main-body img {
     border-radius: 6px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
 }
+
+/* ===== 手机端排版 ===== */
+@media (max-width: 767.98px) {
+    section {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+
+    section header h2 {
+        font-size: 1.6rem;
+        line-height: 2.4rem;
+        margin-bottom: 0.75rem;
+    }
+
+    section .main-body {
+        font-size: 1rem;
+        line-height: 1.8;
+        text-align: left;
+        overflow-wrap: anywhere;
+    }
+
+    section .main-body h4 {
+        font-size: 1.15rem;
+        margin-top: 1.75rem;
+        margin-bottom: 0.6rem;
+    }
+
+    section .main-body h4:first-child {
+        margin-top: 0;
+    }
+
+    section .main-body p {
+        margin-bottom: 0.5rem;
+    }
+
+    section .main-body ul,
+    section .main-body ol {
+        padding-left: 1.2rem;
+        margin-bottom: 1.25rem;
+    }
+
+    section .main-body li {
+        margin-bottom: 0.35rem;
+    }
+
+    section .main-body strong {
+        word-break: keep-all;
+    }
+}
