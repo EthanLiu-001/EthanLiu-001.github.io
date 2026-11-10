@@ -9,8 +9,8 @@
 
 #### 联系方式
 
-邮箱：zhi.liu.ee[at]outlook.com
-电话：18397759158
+- 邮箱：zhi.liu.ee[at]outlook.com
+- 电话：18397759158
 
 #### 教育经历
 
