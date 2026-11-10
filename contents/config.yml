@@ -20,7 +20,7 @@ sections:
     href: '#page-top' # Default to '#<id>' if not specified
   - id: experience
     nav: 经历
-    title: 实习与项目经历
+    title: 工作经历
     icon: bi-briefcase-fill
   - id: publications
     nav: 成果
